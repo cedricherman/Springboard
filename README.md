@@ -3,4 +3,4 @@
 In data wrangling folder, there is a jupyter notebook that shows solutions for JSON data manipulation exercise.
 Instructions and solutions are in the notebook.
 
-More to come.
+In SQL folder, there is a word document that summarizes the analysis of Yammer drop in engagement case study. It includes links to Mode Analytics reports.
